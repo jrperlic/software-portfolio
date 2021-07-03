@@ -8,6 +8,8 @@ The first program I have in the portfolio is called `motion.py`. It is a simple 
 
 `temperature.clj` is my final project from my Clojure class. It converts the temperature in Fahrenheit to Celsius and vice versa.
 
+Lastly, I learned a bit about threading in Python and so I have added `single_thread.py` to complete this portfolio.
+
 # Development Environment
 
 The programming languages that I'm most familiar with are Python and C++. I do all my work in Visual Studio Code.
@@ -19,3 +21,4 @@ Here are some useful resources:
 * [Haar Cascade Object Detection by sentdex](https://www.youtube.com/watch?v=88HdqNDQsEk)
 * [Creating Graphic User Interfaces by freeCodeCamp](https://www.youtube.com/watch?v=YXPyB4XeYLA)
 * [Number Guessing Game in Java by Coding with John](https://www.youtube.com/watch?v=j_ax_yT7KW0)
+* [Intro to Threading in Python](https://realpython.com/intro-to-python-threading/)
